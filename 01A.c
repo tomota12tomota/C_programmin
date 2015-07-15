@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main(void)
 {
-	printf("電子太郎\n電子");
+	printf("text");
 
 	return 0;
 }
